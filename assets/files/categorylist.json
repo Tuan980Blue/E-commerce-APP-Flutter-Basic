@@ -1,0 +1,45 @@
+{
+    "data":
+    [
+        {
+            "id": 1,
+            "name": "Thời trang",
+            "img": "fashion.png"
+        },
+        {
+            "id": 2,
+            "name": "Điện thoại & Phụ kiện",
+            "img": "PhonesAccessories.png"
+        },
+        {
+            "id": 3,
+            "name": "Thiết bị điện tử",
+            "img": "Electronics.png"
+        },
+        {
+            "id": 4,
+            "name": "Đồ gia dụng & Nhà cửa",
+            "img": "HomeAppliances&Living.png"
+        },
+        {
+            "id": 5,
+            "name": "Mỹ phẩm & Làm đẹp",
+            "img": "Beauty&PersonalCare.png"
+        },
+        {
+            "id": 6,
+            "name": "Sức khỏe",
+            "img": "HealthCare.png"
+        },
+        {
+            "id": 7,
+            "name": "Thể thao & Dã ngoại",
+            "img": "Sports&Outdoors.png"
+        },
+        {
+            "id": 8,
+            "name": "Mẹ & Bé",
+            "img": "Mom&Baby.png"
+        }
+    ]
+}

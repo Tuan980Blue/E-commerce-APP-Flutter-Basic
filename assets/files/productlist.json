@@ -1,0 +1,20 @@
+{
+  "data": [
+    { "id": 1, "name": "Áo đá bóng", "img": "fashion1.png", "price": 29990000, "categoryId": 1, "soldCount": 45 },
+    { "id": 2, "name": "Đồ bộ trẻ trung", "img": "fashion2.png", "price": 19990000, "categoryId": 1, "soldCount": 32 },
+    { "id": 3, "name": "Cục sạc nhanh", "img": "PhonesAccessories1.png", "price": 21990000, "categoryId": 2, "soldCount": 78 },
+    { "id": 4, "name": "Iphone 12 ProMax", "img": "PhonesAccessories2.png", "price": 8990000, "categoryId": 2, "soldCount": 156 },
+    { "id": 5, "name": "Loa", "img": "Electronics1.png", "price": 8990000, "categoryId": 3, "soldCount": 89 },
+    { "id": 6, "name": "Đầu chuyển đổi", "img": "Electronics2.png", "price": 4990000, "categoryId": 3, "soldCount": 67 },
+    { "id": 7, "name": "Bồn vệ sinh", "img": "HomeAppliances&Living1.png", "price": 10990000, "categoryId": 4, "soldCount": 23 },
+    { "id": 8, "name": "Nồi nấu ăn", "img": "HomeAppliances&Living2.png", "price": 4990000, "categoryId": 4, "soldCount": 112 },
+    { "id": 9, "name": "Sirum trị mụn", "img": "Beauty&PersonalCare1.png", "price": 3990000, "categoryId": 5, "soldCount": 234 },
+    { "id": 10, "name": "Kem dưỡng da", "img": "Beauty&PersonalCare2.png", "price": 2990000, "categoryId": 5, "soldCount": 189 },
+    { "id": 11, "name": "Realme C55", "img": "fashion1.png", "price": 4990000, "categoryId": 6, "soldCount": 67 },
+    { "id": 12, "name": "Realme 11 Pro+", "img": "fashion2.png", "price": 13990000, "categoryId": 6, "soldCount": 34 },
+    { "id": 13, "name": "Vivo V27e", "img": "fashion1.png", "price": 8490000, "categoryId": 7, "soldCount": 56 },
+    { "id": 14, "name": "Vivo Y36", "img": "fashion2.png", "price": 5990000, "categoryId": 7, "soldCount": 78 },
+    { "id": 15, "name": "Masstel Fami 60", "img": "fashion1.png", "price": 690000, "categoryId": 8, "soldCount": 145 },
+    { "id": 16, "name": "Masstel IZI 10", "img": "fashion2.png", "price": 350000, "categoryId": 8, "soldCount": 267 }
+  ]
+} 
