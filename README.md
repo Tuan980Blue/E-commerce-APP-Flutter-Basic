@@ -31,7 +31,7 @@
 
 Đây là bản mẫu đơn giản, có thể mở rộng thêm tính năng nâng cao như thanh toán, API,...
 
-👨‍💻 Tác giả
+## 👨‍💻 Tác giả
 <p align="center">
-  <a href="https://tuananhhuflit.id.vn/" target="_blank"><strong>🔗 Xem bản pofolio</strong></a>
+  <a href="https://tuananhhuflit.id.vn/" target="_blank"><strong>🔗 Xem Pofolio</strong></a>
 </p>
