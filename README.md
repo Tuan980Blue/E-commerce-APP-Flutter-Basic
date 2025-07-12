@@ -10,7 +10,6 @@
 - Quản lý đơn hàng cục bộ
 - Tìm kiếm sản phẩm
 - Giao diện hiện đại, responsive
-
 ## 🧱 Công nghệ sử dụng
 
 - **Flutter**: SDK phát triển ứng dụng đa nền tảng
