@@ -9,7 +9,6 @@
 - Xem giỏ hàng và xóa sản phẩm
 - Quản lý đơn hàng
 - Tìm kiếm sản phẩm
-- Giao diện hiện đại, responsive
 ## 🧱 Công nghệ sử dụng
 
 - **Flutter**: SDK phát triển ứng dụng đa nền tảng
