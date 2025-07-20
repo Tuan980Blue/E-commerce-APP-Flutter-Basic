@@ -11,7 +11,7 @@
 - Tìm kiếm sản phẩm
 ## 🧱 Công nghệ sử dụng
 
-- **Flutter**: SDK phát triển ứng dụng đa nền tảng
+- **Flutter**: SDK
 - **Dart**: Ngôn ngữ lập trình chính
 - **SQLite**: Cơ sở dữ liệu cục bộ để lưu trữ sản phẩm, giỏ hàng,...
 - **Provider / Riverpod (tuỳ chọn)**: Quản lý trạng thái
