@@ -1,6 +1,6 @@
 # 🛒 Flutter E-Commerce App
 
-Ứng dụng bán hàng thương mại điện tử được phát triển bằng **Flutter**, sử dụng **SQLite** cho việc lưu trữ dữ liệu cục bộ.
+Ứng dụng bán hàng thương mại điện tử được phát triển bằng **Flutter** và ngôn ngữ dart, sử dụng **SQLite** cho việc lưu trữ dữ liệu cục bộ.
 
 ## 🚀 Tính năng chính
 
